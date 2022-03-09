@@ -8,5 +8,6 @@
 * React
 * Redux
 * TypeScript
+* Next.js
 
 📫Связаться со мной: [telegram](https://t.me/canzit)
