@@ -3,11 +3,11 @@
 ### Меня зовут Максим, и я Frontend-разработчик
 
 **Мой технологический стэк:**
-* HTML|CSS
+* HTML | CSS
 * JavaScript
+* TypeScript
 * React
 * Redux
-* TypeScript
 * Next.js
 
 📫Связаться со мной: [telegram](https://t.me/canzit)
